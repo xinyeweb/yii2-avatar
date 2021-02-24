@@ -1,0 +1,21 @@
+{
+    "name": "xinyeweb/yii2-avatar",
+    "description": "yii2-avatar",
+    "type": "yii2-extension",
+    "keywords": ["yii2","avatar","cropper"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "hoter.zhang",
+            "email": "htmail.zhang@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xinyeweb\\avatar\\": ""
+        }
+    }
+}
